@@ -12,6 +12,9 @@ Thanks,
 
 X@v
 
+----
+
+Looking for a simplest tool, you may have d look to [https://github.com/nekromoff/rpi-monitor-dashboard](https://github.com/nekromoff/rpi-monitor-dashboard)
 
 ----
 
